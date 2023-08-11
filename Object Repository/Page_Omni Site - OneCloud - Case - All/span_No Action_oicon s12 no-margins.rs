@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No Action_oicon s12 no-margins</name>
+   <tag></tag>
+   <elementGuidId>71d36869-800e-4615-b013-ae0da35a0b0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='dropdownMenuSend28525']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dropdownMenuSend28525 > span.oicon.s12.no-margins</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1887dcb0-d959-4cab-aae8-9a32e0bdd375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6aee6eb7-9d73-4f54-954a-2b3ea272ffc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oicon s12 no-margins</value>
+      <webElementGuid>30e0f921-a5e0-4355-b17b-b73031624128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdownMenuSend28525&quot;)/span[@class=&quot;oicon s12 no-margins&quot;]</value>
+      <webElementGuid>a27e88a8-f1f0-4ca5-bb84-f7e37665375c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='dropdownMenuSend28525']/span</value>
+      <webElementGuid>96f3ae2b-6400-40ea-9819-19f0426824b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Action'])[1]/following::span[1]</value>
+      <webElementGuid>9196eaea-f575-4d86-9356-ccb6c3acb8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Response'])[2]/following::span[5]</value>
+      <webElementGuid>7f499850-e8de-41e1-b780-79dd931c1fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send'])[1]/preceding::span[1]</value>
+      <webElementGuid>fd086946-e87f-41b5-8257-5b67250ecc5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/preceding::span[1]</value>
+      <webElementGuid>c1f6948f-6a0b-4874-ba4c-68371db024ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/button/span</value>
+      <webElementGuid>3fab1803-e248-4222-be96-ae32e4ae3037</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

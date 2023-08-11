@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_refresh_oicon s12 no-margins</name>
+   <tag></tag>
+   <elementGuidId>abb4e453-3240-499e-921f-7c01982b7145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#advbtn02cw3 > span.oicon.s12.no-margins</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>58852580-4c2b-4f54-a9a8-a027461b6f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>68687c49-d656-4f5e-b10e-e954dd27d194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oicon s12 no-margins</value>
+      <webElementGuid>65867ef9-9751-4735-b56b-ed0a18c99e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;advbtn02cw3&quot;)/span[@class=&quot;oicon s12 no-margins&quot;]</value>
+      <webElementGuid>5e962b5a-e6b8-40e7-a093-37c713c14ca3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='advbtn02cw3']/span</value>
+      <webElementGuid>aca60e3a-41c8-46a1-b58a-50f16a2372e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This Month'])[1]/preceding::span[4]</value>
+      <webElementGuid>87664253-75eb-4f87-b7c0-8879df06cee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/button[2]/span</value>
+      <webElementGuid>049b0365-280f-4e18-b42d-c112883584f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

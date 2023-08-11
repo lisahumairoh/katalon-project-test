@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Stag - wrong pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba2903e5-37d2-4ac1-b4f0-4055a1852b66</testCaseGuid>
+</TestCaseEntity>

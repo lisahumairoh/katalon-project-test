@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_LunchPrayingBreakGo Home</name>
+   <tag></tag>
+   <elementGuidId>a2773d45-d363-42b6-8acd-9c07fe13eaa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='logoutReasonId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#logoutReasonId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>546af90e-c077-4bf7-8959-bb0714dccf48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>reasonId</value>
+      <webElementGuid>4b2c1a4b-564b-4aab-8ff9-0f136f8c52c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>logoutReasonId</value>
+      <webElementGuid>727318f0-6577-488c-b442-62b1e1d38321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>a05c834c-f873-4ccb-928b-f4914e42b44a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Lunch
+Praying
+Break
+Go Home
+</value>
+      <webElementGuid>cc3e57d2-9099-42bc-94a7-c8751f8beb44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;logoutReasonId&quot;)</value>
+      <webElementGuid>9c086917-2dc0-4c53-a161-6f36169460fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='logoutReasonId']</value>
+      <webElementGuid>134ba532-5aaf-43ef-8137-a196a187b916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='logoutForm']/div/select</value>
+      <webElementGuid>07f35382-98af-4026-aba0-bda9ee58acc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason'])[1]/following::select[1]</value>
+      <webElementGuid>47b8639d-e7f2-4950-8709-2e16db783c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[9]/following::select[1]</value>
+      <webElementGuid>953d7370-62de-4677-9de4-654f29c863d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[1]/preceding::select[1]</value>
+      <webElementGuid>4a6df14e-562e-43db-9958-45cd8173afae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::select[1]</value>
+      <webElementGuid>0f2c122f-0de9-446c-89f1-e0d0b3a72635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/select</value>
+      <webElementGuid>60d78391-ff1f-4af3-9efa-b527a4787f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'reasonId' and @id = 'logoutReasonId' and (text() = '
+Lunch
+Praying
+Break
+Go Home
+' or . = '
+Lunch
+Praying
+Break
+Go Home
+')]</value>
+      <webElementGuid>d46cb910-950b-42ce-92da-c3b3ef0c60f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

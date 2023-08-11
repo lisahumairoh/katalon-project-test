@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_History Interaction</name>
+   <tag></tag>
+   <elementGuidId>c7b89f5d-bb8b-4f9c-964b-18e0bfb67a00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='ulNavSecondLevel']/li/a)[31]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.p-l-sm.li-item-side-menu.active > #ulNavSecondLevel > li.li-item-subside-menu > a.a-item-subside-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>02c25686-6c02-47d4-b143-7d2d80024160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/report/HistoryInteraction/inbound/detail</value>
+      <webElementGuid>651f07a0-a20f-4f45-b484-38a12b546122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-item-subside-menu</value>
+      <webElementGuid>819ae295-d500-49af-ad7a-6b36c79248a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  History Interaction  </value>
+      <webElementGuid>1a114146-410f-4cb6-8890-d972bab5d05a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-menu&quot;)/li[@class=&quot;p-l-sm li-item-side-menu active&quot;]/ul[@id=&quot;ulNavSecondLevel&quot;]/li[@class=&quot;li-item-subside-menu&quot;]/a[@class=&quot;a-item-subside-menu&quot;]</value>
+      <webElementGuid>88dd4246-8eec-4fee-9739-097dda48e3f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='ulNavSecondLevel']/li/a)[31]</value>
+      <webElementGuid>49d8a4ef-a73e-4145-b159-0c4d5b4b90d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'History Interaction')]</value>
+      <webElementGuid>fbbf80a5-e442-4a94-9904-87bf00e6396d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interaction'])[2]/following::a[1]</value>
+      <webElementGuid>a5f707f4-5c79-47df-8bcd-3cc2aac4b2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interaction'])[1]/following::a[1]</value>
+      <webElementGuid>f6fdaaac-05cb-4b3a-858c-884c99c48205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outbound'])[1]/preceding::a[1]</value>
+      <webElementGuid>9d0ef066-7f9b-4f4b-bc69-363f9a61b800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outbound By Status'])[1]/preceding::a[2]</value>
+      <webElementGuid>2d202c06-9a0f-4fba-b65c-10fd0f9e49e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='History Interaction']/parent::*</value>
+      <webElementGuid>84f0de5f-7ad6-4c2b-be2c-8b76505945d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/report/HistoryInteraction/inbound/detail')]</value>
+      <webElementGuid>fb67f780-fa04-4d98-8f5c-3026ec9815d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/ul/li/a</value>
+      <webElementGuid>57e6d740-4d6a-407c-8ac4-96f4dc3800f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/report/HistoryInteraction/inbound/detail' and (text() = '  History Interaction  ' or . = '  History Interaction  ')]</value>
+      <webElementGuid>28a44ea0-334a-4c99-97e9-f912644f2c80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

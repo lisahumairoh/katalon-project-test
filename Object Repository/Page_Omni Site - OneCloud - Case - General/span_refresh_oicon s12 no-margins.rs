@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_refresh_oicon s12 no-margins</name>
+   <tag></tag>
+   <elementGuidId>d36959bc-0dc0-402e-851d-4a8d7fe4e2b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='advbtnvr1zp']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#advbtnvr1zp > span.oicon.s12.no-margins</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8039838a-b11b-4440-854e-c91f50509280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ba9a00c5-dec3-44db-9921-bd40d5abbc8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oicon s12 no-margins</value>
+      <webElementGuid>61dbf2b8-f899-4993-845e-3debfef3afdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;advbtnvr1zp&quot;)/span[@class=&quot;oicon s12 no-margins&quot;]</value>
+      <webElementGuid>28f17fc1-65c6-4c2b-a3e0-a7708adf44fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='advbtnvr1zp']/span</value>
+      <webElementGuid>e701b484-774a-455c-9ae6-24fd24fe2aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Team'])[3]/preceding::span[5]</value>
+      <webElementGuid>2b8e380c-08bb-4519-baef-e9b5b16bb978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/button[2]/span</value>
+      <webElementGuid>120e1926-84f2-4ccd-8a35-628b4c29315c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

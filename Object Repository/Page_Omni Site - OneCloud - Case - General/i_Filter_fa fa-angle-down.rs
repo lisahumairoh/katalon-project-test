@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Filter_fa fa-angle-down</name>
+   <tag></tag>
+   <elementGuidId>e0e20412-bc95-43f7-84f2-d175371624ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='searchDateReportvr1zp']/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#searchDateReportvr1zp > i.fa.fa-angle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2314b21f-7cb0-4a5c-ba4b-7f786ceaaf15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-down</value>
+      <webElementGuid>7640b33c-d44d-4b45-8125-4c19bc5de66e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchDateReportvr1zp&quot;)/i[@class=&quot;fa fa-angle-down&quot;]</value>
+      <webElementGuid>768588e1-f422-4acd-b3db-b570a96dbf5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='searchDateReportvr1zp']/i[2]</value>
+      <webElementGuid>1cac1087-4508-4f6e-ba42-4caf04dea4ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div/div/div/div/button/i[2]</value>
+      <webElementGuid>070935df-ca55-42ea-82c8-ccf97da4c216</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

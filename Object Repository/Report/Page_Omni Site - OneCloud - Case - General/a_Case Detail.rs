@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Case Detail</name>
+   <tag></tag>
+   <elementGuidId>bf5249c9-f8cd-4346-baff-0484c71186ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='ulNavSecondLevel']/li/a)[27]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.p-l-sm.li-item-side-menu.active > #ulNavSecondLevel > li.li-item-subside-menu > a.a-item-subside-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d04ae998-c17e-4a4f-aea3-fcfdf486f157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/report/CaseDetail/inbound</value>
+      <webElementGuid>f980338e-de94-4b93-a1c3-a487d44bba03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-item-subside-menu</value>
+      <webElementGuid>79290cc5-7c67-4af4-90a0-4b0a3a1cec34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Case Detail  </value>
+      <webElementGuid>bb957439-7d6e-4390-a565-a505d0853f0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-menu&quot;)/li[@class=&quot;p-l-sm li-item-side-menu active&quot;]/ul[@id=&quot;ulNavSecondLevel&quot;]/li[@class=&quot;li-item-subside-menu&quot;]/a[@class=&quot;a-item-subside-menu&quot;]</value>
+      <webElementGuid>6b79b7cc-3581-46f1-8491-9975200f7dbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='ulNavSecondLevel']/li/a)[27]</value>
+      <webElementGuid>f2cab554-2fc5-4044-b8fe-4b726575b93d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Case Detail')]</value>
+      <webElementGuid>d1fb479f-3f9d-406e-bdb9-5b2a59de3e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Case'])[2]/following::a[1]</value>
+      <webElementGuid>dcd04d92-1f39-4bd9-9513-c4b223933289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Case'])[1]/following::a[1]</value>
+      <webElementGuid>4113c1d3-aa2f-4da3-b893-33451f23ab1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Internal'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d6a2022-88ce-4349-a62e-72866246eb25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Pengaduan'])[1]/preceding::a[2]</value>
+      <webElementGuid>c921af7f-396c-4e70-b624-182de69c88b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Case Detail']/parent::*</value>
+      <webElementGuid>e97467a7-9b51-4fc8-b06f-6115d51ec441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/report/CaseDetail/inbound')]</value>
+      <webElementGuid>85ea052f-d44d-4ba1-8a51-45377a2d370e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/ul/li/a</value>
+      <webElementGuid>ddc554c7-a128-463e-bd4a-de4cca9a3586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/report/CaseDetail/inbound' and (text() = '  Case Detail  ' or . = '  Case Detail  ')]</value>
+      <webElementGuid>5ae647b8-a2b7-41d1-a3d8-b5207bdb3e96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
